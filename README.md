@@ -7,6 +7,10 @@
   No image assets, no tracing, no generative models: every line, colour and letter is placed by JavaScript.
 </p>
 
+> **Status: work in progress.** *Every Line Alive* is the flagship and the closest to finished, though not
+> there yet. The other five are earlier-stage: their characters and panels still look off. All six are being
+> reworked, panel by panel, towards production quality.
+
 ---
 
 ## Every Line Alive
@@ -32,6 +36,8 @@ wave leaves the paper.
 Every Line Alive was drawn from close reading alone. These five were **built afterwards, with further research
 into how comics work**: the Zen Pencils archive measured with code, a panel reproduced one-to-one, a new
 drawing engine built around what that showed, and two rounds of independent audits (all described below).
+The research shows in the numbers, not yet in the drawing: the characters and many panels still look off,
+and these five are next in line for a full rework.
 
 <table>
   <tr>
@@ -175,8 +181,9 @@ props that change between panels. The findings and every fix are in [`docs/AUDIT
 
 ## Where it falls short
 
-The honest version: **these are not as good as the real thing.** On the last independent review the comics
-scored 3–6 out of 10 against real Zen Pencils strips.
+The honest version: **these are not as good as the real thing.** Every Line Alive comes closest. On the last
+independent review the other five scored 3–6 out of 10 against real Zen Pencils strips, with characters and
+hands the weakest (3 out of 10).
 
 - **The measurable style matches; the drawing doesn't.** Margins, gutters, stroke widths and palettes land
   inside Zen Pencils' range. Character drawing, hands and composition do not.
