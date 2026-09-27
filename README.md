@@ -28,6 +28,23 @@ rigorously rather than by eye:
 | 5 | [Wobbling Will](out/wobbling-will.png) | Frances E. Willard, 1895 | A 53-year-old keeps falling off her bicycle until she stops staring at the wheel. |
 
 Each script, with its colour script, repetition device and turn, is in [`docs/SCRIPTS.md`](docs/SCRIPTS.md).
+
+### Every Line Alive (Hokusai)
+
+[`out/every-line-alive.png`](out/every-line-alive.png), with every panel as its own image in
+[`out/every-line-alive/`](out/every-line-alive/) (rendered at 2x).
+
+Hokusai's afterword to *One Hundred Views of Mount Fuji* (1834), condensed in my own words: he drew from
+the age of six, thought nothing he made before seventy was worth noticing, and hoped that at 110 "every
+dot and every line will be alive." One artist, one round window, one mountain, from age 6 to 110.
+- **The drawing on her desk is generated with a `skill` parameter (0 to 1)**, so it really improves
+  with age: a lopsided triangle at 6, mist and pines in middle age, a snow cap at 90, a wave at 100.
+- **Repetition:** the same over-the-shoulder frame at 80, 90 and 100; only the season, her hair and the
+  drawing change.
+- **Finale:** a nod to Hokusai's *Great Wave*: the wave rises off her paper, and cranes fly out through the window.
+
+It was drawn before the measurement-first engine, with its own figure, face and hand code (`lib/artist.js`,
+`lib/face.js`, `lib/hands.js`, `lib/hoku.js`). Rebuild it with `node archive/every-line-alive.js`.
 None of these authors has been adapted by Zen Pencils (all 223 archive pages were checked).
 
 ## How it was done
@@ -123,7 +140,8 @@ python3 qc/report.py            # rewrite docs/QC.md
 ```
 
 To draw one comic: `node comics/uphill.js`, then `node lib/render.js out/up-hill.svg out/up-hill.png 2`
-(the final argument is the pixel scale).
+(the final argument is the pixel scale). To cut a page into panels:
+`python3 tools/split_panels.py out/up-hill.png out/up-hill/ --title-height 250`.
 
 ## Layout
 
@@ -133,20 +151,20 @@ zp/        the drawing engine
 lib/       brush-stroke toolkit, SVG renderer, and helpers used by the earlier attempts
 study/     style measurement scripts and the measured Zen Pencils statistics
 qc/        style scorer and QC report
+tools/     split_panels.py: cut any rendered page into one image per panel
 quotes/    the verified quote repository
 docs/      scripts, study notes, QC table and audit log
-out/       rendered comics; out/archive/ holds earlier attempts
+out/       rendered comics; out/every-line-alive/ has that comic panel by panel; out/archive/ the first attempt
 archive/   earlier attempts: "The Voice Within" (Van Gogh) and "Every Line Alive" (Hokusai)
 fonts/     open-licence fonts (SIL OFL)
 ```
 
 ## Earlier attempts
 
-The project began with two looser attempts, kept in `archive/` and `out/archive/`:
+The project began with two looser attempts, whose scripts are in `archive/`:
 - **The Voice Within** (Van Gogh): drawn before studying the archive. It turned out to closely echo an
   existing Zen Pencils strip, so it was set aside.
-- **Every Line Alive** (Hokusai): the drawing on the artist's desk is generated with a `skill`
-  parameter, so it improves as she ages.
+- **Every Line Alive** (Hokusai): see above.
 
 The shortcomings of these two led to the measurement-first approach above.
 
