@@ -1,0 +1,5 @@
+node_modules/
+out/*.svg
+out/archive/*.svg
+work/
+__pycache__/

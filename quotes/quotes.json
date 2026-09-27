@@ -1,0 +1,2165 @@
+{
+  "description": "Verified public-domain quotes, poems and passages for original comics in the style of Zen Pencils. Sorted by comic_potential (highest first), then by whether Zen Pencils has not adapted the author (unadapted first); ties keep curator order, with quotes already used in this project last.",
+  "generated": "2026-09-27",
+  "count": 58,
+  "quotes": [
+    {
+      "id": "tubman-glory-over-everything",
+      "text": "\"When I found I had crossed dat line,\" she said, \"I looked at my hands to see if I was de same pusson. There was such a glory ober ebery ting; de sun came like gold through the trees, and ober the fields, and I felt like I was in Heaben.\"",
+      "popular_text": "When I found I had crossed that line, I looked at my hands to see if I was the same person. There was such a glory over everything; the sun came like gold through the trees, and over the fields, and I felt like I was in Heaven.",
+      "flags": [
+        "reported_speech",
+        "dialect_transcription",
+        "popular_wording_differs"
+      ],
+      "author": "Harriet Tubman (as told to Sarah H. Bradford)",
+      "author_dates": "c.1822-1913",
+      "work": "Scenes in the Life of Harriet Tubman, by Sarah H. Bradford",
+      "year": 1869,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/57821/pg57821.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1869; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "freedom",
+        "escape",
+        "transformation",
+        "courage"
+      ],
+      "length_words": 51,
+      "comic_potential": 5,
+      "story_seed": "A wordless, blue-grey night sequence follows a woman wading through Maryland swamps by the North Star; at an unmarked line of trees the palette floods gold and she stares at her own hands like a stranger's, then the last panel shows her turning south again, lantern shuttered, to go back for her family.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Tubman could not write; Bradford recorded her words in dialect. Popular versions standardise the spelling. Many other 'Tubman quotes' online are misattributed (see README).",
+      "used_in_this_project": false
+    },
+    {
+      "id": "robinson-i-am-going-to-turn-out",
+      "text": "I, who began to think they would not go out, after all their talk, became impatient, and started on ahead, saying, with childish bravado, \"I don't care what you do, I am going to turn out, whether any one else does or not;\" and I marched out, and was followed by the others.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Harriet Hanson Robinson",
+      "author_dates": "1825-1911",
+      "work": "Loom and Spindle; or, Life Among the Early Mill Girls (recalling the 1836 Lowell mill strike, when she was 11)",
+      "year": 1898,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/72757/pg72757.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1898; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "labour",
+        "courage",
+        "leadership",
+        "childhood",
+        "solidarity"
+      ],
+      "length_words": 53,
+      "comic_potential": 5,
+      "story_seed": "An 11-year-old bobbin girl in an 1836 Lowell cotton mill watches grown women whisper about a strike and then freeze at their looms; she marches alone down the long aisle past the overseer, and the page turn shows the whole floor of women filing down the stairs behind her.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Working-class and child-labour voice; the 'I' was italicised in the original.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "sor-juana-if-aristotle-had-cooked",
+      "text": "¿qué podemos saber las mujeres sino filosofías de cocina? Bien dijo Lupercio Leonardo, que bien se puede filosofar y aderezar la cena. Y yo suelo decir viendo estas cosillas: Si Aristóteles hubiera guisado, mucho más hubiera escrito.",
+      "popular_text": "If Aristotle had cooked, he would have written much more.",
+      "flags": [
+        "translation_needed",
+        "popular_wording_differs"
+      ],
+      "author": "Sor Juana Inés de la Cruz",
+      "author_dates": "1648-1695",
+      "work": "Respuesta a Sor Filotea de la Cruz (letter)",
+      "year": 1691,
+      "form": "prose",
+      "original_language": "Spanish",
+      "translator": "english_gloss is our own literal translation (no public-domain English translation was found)",
+      "english_gloss": "What can we women know, except kitchen philosophies? Lupercio Leonardo put it well: one can philosophise perfectly well while making supper. And seeing these little things I often say: if Aristotle had cooked, he would have written much more.",
+      "verified_url": "https://www.marxists.org/espanol/tematica/mujer/autores/sorjuana/1692/marzo01.htm",
+      "verification_level": "primary transcription on a reliable site",
+      "public_domain_reason": "Written 1691, first printed 1700; author died 1695. Public domain everywhere.",
+      "themes": [
+        "curiosity",
+        "women's intellect",
+        "science",
+        "everyday wonder",
+        "cooking"
+      ],
+      "length_words": 37,
+      "comic_potential": 5,
+      "story_seed": "A nun in a 1690s Mexico City convent, forbidden her books, is sent to the kitchen as punishment; panel by panel the eggs frying in oil, syrup threads and spinning tops turn into chalk diagrams across the kitchen walls, and the turn is the Mother Superior arriving to scold her and staying up all night with the equations.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Text is in the original Spanish. Verified against the marxists.org transcription (its accented characters are damaged in the page encoding; wording matches). Use a fresh translation for the comic.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "willard-wobbling-will",
+      "text": "I finally concluded that all failure was from a wobbling will rather than a wobbling wheel.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Frances E. Willard",
+      "author_dates": "1839-1898",
+      "work": "A Wheel Within a Wheel: How I Learned to Ride the Bicycle",
+      "year": 1895,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/60356/pg60356.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1895; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "learning",
+        "ageing",
+        "persistence",
+        "self-mastery",
+        "sport"
+      ],
+      "length_words": 16,
+      "comic_potential": 5,
+      "story_seed": "A 53-year-old widowed seamstress learns to ride her dead son's bicycle in the tenement courtyard at dawn; her twenty falls are drawn as a tally chart scratched on the wall, the turn comes when she stops staring at the cobbles and fixes her eyes on the far gate, and the last panel has her pedalling past the factory girls on their walk to work.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Willard learned to ride at 53. A women's-cycling story, close to sport.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "slocum-i-would-say-go",
+      "text": "To young men contemplating a voyage I would say go. The tales of rough usage are for the most part exaggerations, as also are the stories of sea danger.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Joshua Slocum",
+      "author_dates": "1844-1909",
+      "work": "Sailing Alone Around the World",
+      "year": 1900,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/6317/pg6317.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1900; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "adventure",
+        "courage",
+        "fear",
+        "exploration"
+      ],
+      "length_words": 29,
+      "comic_potential": 5,
+      "story_seed": "A 70-year-old harbour-master who has spent forty years logging other people's departures (and warning them off) writes his own name in the outbound ledger, rows a patched dinghy past the breakwater while the young sailors he lectured line the pier, and the final panel flips his old sign NO SMALL CRAFT BEYOND THIS POINT to show he has painted GO on the back.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Slocum was the first person to sail alone around the world (1895-98).",
+      "used_in_this_project": false
+    },
+    {
+      "id": "wilbur-wright-enthusiast-not-crank",
+      "text": "I am an enthusiast, but not a crank in the sense that I have some pet theories as to the proper construction of a flying machine. I wish to avail myself of all that is already known and then if possible add my mite to help on the future workers who will attain final success.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Wilbur Wright",
+      "author_dates": "1867-1912",
+      "work": "Letter to the Smithsonian Institution, 30 May 1899",
+      "year": 1899,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/Wilbur_Wright_letter_(May_30,_1899)",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Private letter written 1899; author died 1912, so public domain (life+70), and it has long been printed and held in the Smithsonian archives.",
+      "themes": [
+        "humility",
+        "learning",
+        "invention",
+        "standing on shoulders",
+        "ambition"
+      ],
+      "length_words": 55,
+      "comic_potential": 5,
+      "story_seed": "A shy teenage girl in a small-town bike repair shop mails a handwritten letter to a university asking for 'everything you have on flight'; a crate of dusty pamphlets arrives, and the story follows her studying at night between tyre repairs until the last page shows her kite-glider lifting off the dunes while the professor who sent the crate reads about it in the newspaper.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The letter that started the Wright brothers' research.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "chuang-tzu-butterfly-dream",
+      "text": "Once upon a time, I, Chuang Tzŭ, dreamt I was a butterfly, fluttering hither and thither, to all intents and purposes a butterfly. I was conscious only of following my fancies as a butterfly, and was unconscious of my individuality as a man. Suddenly, I awaked, and there I lay, myself again. Now I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Chuang Tzu (Zhuangzi)",
+      "author_dates": "c.369-c.286 BCE",
+      "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, tr. Herbert A. Giles, ch. II",
+      "year": 1889,
+      "form": "prose",
+      "original_language": "Classical Chinese",
+      "translator": "Herbert A. Giles (1889)",
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/59709/pg59709.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Ancient text; Giles translation published 1889 (translator died 1935). Public domain.",
+      "themes": [
+        "identity",
+        "dreams",
+        "wonder",
+        "perspective"
+      ],
+      "length_words": 80,
+      "comic_potential": 5,
+      "story_seed": "An overworked accountant dozes at his desk in a Hong Kong tower and spends a whole wordless double page as a butterfly over the harbour; he wakes to find wing-dust on his fingertips, and the final panel cuts to a butterfly asleep on a leaf, dreaming of spreadsheets.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "Zen Pencils adapted Lao Tzu (#18, #165), not Chuang Tzu."
+      },
+      "notes": "Zen Pencils adapted Lao Tzu, but not Chuang Tzu.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "rossetti-up-hill",
+      "text": "Does the road wind up-hill all the way?\n   Yes, to the very end.\nWill the day's journey take the whole long day?\n   From morn to night, my friend.\n\nBut is there for the night a resting-place?\n   A roof for when the slow dark hours begin.\nMay not the darkness hide it from my face?\n   You cannot miss that inn.\n\nShall I meet other wayfarers at night?\n   Those who have gone before.\nThen must I knock, or call when just in sight?\n   They will not keep you standing at that door.\n\nShall I find comfort, travel-sore and weak?\n   Of labour you shall find the sum.\nWill there be beds for me and all who seek?\n   Yea, beds for all who come.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Christina Rossetti",
+      "author_dates": "1830-1894",
+      "work": "Up-Hill (Goblin Market and Other Poems)",
+      "year": 1862,
+      "form": "poem",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/Up-Hill",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1862; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "journey",
+        "death",
+        "comfort",
+        "perseverance",
+        "companionship"
+      ],
+      "length_words": 123,
+      "comic_potential": 5,
+      "story_seed": "A small girl and her grandfather climb the endless switchback stairs of a Lisbon hillside at dusk, she asking each question and he answering; he carries her up the last flight, and at the top a door swings open on a lamp-lit table crowded with every relative who climbed before, her grandmother's chair pulled out for him.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Complete poem, 16 lines.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "shackleton-in-memories-we-were-rich",
+      "text": "That was all of tangible things; but in memories we were rich. We had pierced the veneer of outside things. We had \"suffered, starved, and triumphed, grovelled down yet grasped at glory, grown bigger in the bigness of the whole.\" We had seen God in His splendours, heard the text that Nature renders. We had reached the naked soul of man.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Ernest Shackleton",
+      "author_dates": "1874-1922",
+      "work": "South: The Story of Shackleton's Last Expedition, 1914-1917",
+      "year": 1919,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/5199/pg5199.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1919; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "hardship",
+        "survival",
+        "meaning",
+        "friendship",
+        "exploration"
+      ],
+      "length_words": 61,
+      "comic_potential": 5,
+      "story_seed": "A grandmother empties a battered biscuit tin onto the kitchen table for a grandson who says her life was 'boring': a cracked compass, one frozen mitten, a spoon bent into a hook; each object opens a panel of the winter she spent snowed in at a remote weather station, and the boy ends up asking to keep the tin.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The words in inner quotation marks are Shackleton quoting Robert Service's 'The Call of the Wild'. The famous 'Men wanted for hazardous journey' newspaper ad is apocryphal and was dropped.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "tennyson-ulysses-newer-world",
+      "text": "Come, my friends,\n'Tis not too late to seek a newer world.\nPush off, and sitting well in order smite\nThe sounding furrows; for my purpose holds\nTo sail beyond the sunset, and the baths\nOf all the western stars, until I die.\nIt may be that the gulfs will wash us down:\nIt may be we shall touch the Happy Isles,\nAnd see the great Achilles, whom we knew.\nTho' much is taken, much abides; and tho'\nWe are not now that strength which in old days\nMoved earth and heaven; that which we are, we are;\nOne equal temper of heroic hearts,\nMade weak by time and fate, but strong in will\nTo strive, to seek, to find, and not to yield.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Alfred, Lord Tennyson",
+      "author_dates": "1809-1892",
+      "work": "Ulysses (Poems, 1842), lines 56-70",
+      "year": 1842,
+      "form": "poem excerpt",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/Poems_(Tennyson,_1843)/Volume_2/Ulysses",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1842; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "ageing",
+        "adventure",
+        "friendship",
+        "defiance"
+      ],
+      "length_words": 124,
+      "comic_potential": 5,
+      "story_seed": "Four retired lifeboat crew in their eighties break their decommissioned rowing lifeboat out of the seaside museum at 4 a.m. for one last row to the lighthouse, oars clacking out of time until they find the old rhythm, and the final splash page shows them rowing straight into the sunrise while the museum alarm rings unheard on shore.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Excerpt: the closing 15 lines.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "oppenheim-bread-and-roses",
+      "text": "As we come marching, marching, in the beauty of the day,\nA million darkened kitchens, a thousand mill-lofts gray\nAre touched with all the radiance that a sudden sun discloses,\nFor the people hear us singing, \"Bread and Roses, Bread and Roses.\"\n\nAs we come marching, we battle, too, for men—\nFor they are women's children and we mother them again.\nOur lives shall not be sweated from birth until life closes—\nHearts starve as well as bodies; Give us Bread, but give us Roses!",
+      "popular_text": null,
+      "flags": [],
+      "author": "James Oppenheim",
+      "author_dates": "1882-1932",
+      "work": "Bread and Roses (first published in The American Magazine, Dec 1911; text as in Poems for Workers, 1925)",
+      "year": 1911,
+      "form": "poem excerpt",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/Poems_for_Workers_(Gomez_1925)/Bread_and_Roses",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1911; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "labour",
+        "dignity",
+        "beauty",
+        "solidarity",
+        "women"
+      ],
+      "length_words": 86,
+      "comic_potential": 5,
+      "story_seed": "A night-shift sewing-machinist in a grey garment factory smuggles a single paper rose onto her machine every night; the supervisor bins it, she makes another, then two appear on the next machine, and the final spread shows the whole floor blooming as the women walk out into the morning.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The 1925 anthology prints two stanzas; the 1911 original has four. Linked to the 1912 Lawrence textile strike.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "hughes-negro-speaks-of-rivers",
+      "text": "I've known rivers:\nI've known rivers ancient as the world and older than the flow of human blood in human veins.\n\nMy soul has grown deep like the rivers.\n\nI bathed in the Euphrates when dawns were young.\nI built my hut near the Congo and it lulled me to sleep.\nI looked upon the Nile and raised the pyramids above it.\nI heard the singing of the Mississippi when Abe Lincoln went down to New Orleans, and I've seen its muddy bosom turn all golden in the sunset.\n\nI've known rivers:\nAncient, dusky rivers.\n\nMy soul has grown deep like the rivers.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Langston Hughes",
+      "author_dates": "1901-1967",
+      "work": "The Negro Speaks of Rivers (The Crisis, June 1921; collected in The Weary Blues, 1926)",
+      "year": 1921,
+      "form": "poem",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/74745/pg74745.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1921 and 1926, both before 1929, so public domain in the US (the author died in 1967, so it may still be in copyright in life+70 countries).",
+      "themes": [
+        "heritage",
+        "identity",
+        "history",
+        "endurance"
+      ],
+      "length_words": 103,
+      "comic_potential": 5,
+      "story_seed": "A 17-year-old Black busboy crossing the Mississippi on a St. Louis streetcar bridge at sunset looks down, and the river carries him panel by panel through the Euphrates, the Congo and the Nile before he lands back on the tram with a napkin, writing.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Hughes wrote it at 17 while crossing the Mississippi by train. Public domain in the US by publication date only.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "susan-b-anthony-bicycling",
+      "text": "\"Let me tell you what I think of bicycling,\" Miss Anthony said, leaning forward and laying a slender hand on my arm. \"I think it has done more to emancipate women than anything else in the world. I stand and rejoice every time I see a woman ride by on a wheel. It gives woman a feeling of freedom and self-reliance. It makes her feel as if she were independent. The moment she takes her seat she knows she can't get into harm unless she gets off her bicycle, and away she goes, the picture of free, untrammeled womanhood.\"",
+      "popular_text": "Let me tell you what I think of bicycling. I think it has done more to emancipate women than anything else in the world. ... the picture of free, untrammeled womanhood.",
+      "flags": [
+        "reported_speech",
+        "popular_wording_differs"
+      ],
+      "author": "Susan B. Anthony (interviewed by Nellie Bly)",
+      "author_dates": "1820-1906",
+      "work": "'Champion of Her Sex', New York World, 2 Feb 1896",
+      "year": 1896,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://ignoranceisblixt.com/2020/08/champion-of-her-sex-nellie-bly-interviews-susan-b-anthony/",
+      "verification_level": "primary transcription on a reliable site",
+      "public_domain_reason": "Published 1896; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "freedom",
+        "women",
+        "sport",
+        "independence",
+        "joy"
+      ],
+      "length_words": 100,
+      "comic_potential": 5,
+      "story_seed": "In a 1896 small town a teenage girl in heavy skirts watches the lady doctor whizz past on a bicycle; she trades her mother's churn butter for a rusted frame, falls repeatedly behind the chapel, and the turn is her first downhill run, where the skirts, corset laces and town gossip literally peel away behind her into the wind.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Interview wording as transcribed from the World article. Wikiquote reads 'It gives women', but the transcription reads 'It gives woman'.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "douglass-slave-made-a-man",
+      "text": "You have seen how a man was made a slave; you shall see how a slave was made a man.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Frederick Douglass",
+      "author_dates": "1818-1895",
+      "work": "Narrative of the Life of Frederick Douglass, an American Slave, ch. X",
+      "year": 1845,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/23/pg23.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1845; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "dignity",
+        "resistance",
+        "freedom",
+        "turning point"
+      ],
+      "length_words": 20,
+      "comic_potential": 5,
+      "story_seed": "A 16-year-old farmhand in 1833 Maryland collapses fanning wheat under a notorious 'slave-breaker'; the story builds to the two-hour fight in the barn where he refuses to be beaten again, the barn walls pulling wider in every panel, and ends with him walking out standing a full head taller in the frame.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Chapter-turning line of the Narrative. The popular 'I prayed for twenty years... prayed with my legs' is not traceable to Douglass and was dropped.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "middlemarch-unhistoric-acts",
+      "text": "But the effect of her being on those around her was incalculably diffusive: for the growing good of the world is partly dependent on unhistoric acts; and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs.",
+      "popular_text": null,
+      "flags": [],
+      "author": "George Eliot (Mary Ann Evans)",
+      "author_dates": "1819-1880",
+      "work": "Middlemarch, Finale",
+      "year": 1872,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/145/pg145.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1872; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "quiet heroism",
+        "legacy",
+        "kindness",
+        "ordinary life"
+      ],
+      "length_words": 59,
+      "comic_potential": 5,
+      "story_seed": "The comic follows one battered library book through ninety years of date stamps, each stamp a panel of a different borrower's hands, until it reaches the girl who becomes the surgeon on the front page; the final panel pulls back to an overgrown grave of the unnamed librarian who once pulled it from the skip.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The popular 'It is never too late to be what you might have been' is not found in Eliot's works and was dropped.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "hokusai-every-dot-alive",
+      "text": "From the age of six, I had a mania for drawing the forms of things. By the time I was fifty, I had published an infinity of designs, but all I have produced before the age of seventy is not worth taking into account. At seventy-five I have learned a little about the real structure of nature,—of animals, plants and trees, birds, fishes and insects. In consequence, when I am eighty, I shall have made still more progress. At ninety I shall penetrate the mystery of things; at a hundred I shall certainly have reached a marvellous stage, and when I am a hundred and ten, everything I do—be it but a line or dot—will be alive.",
+      "popular_text": "At a hundred and ten, every dot and every line will be alive.",
+      "flags": [
+        "popular_wording_differs"
+      ],
+      "author": "Katsushika Hokusai",
+      "author_dates": "1760-1849",
+      "work": "Afterword to One Hundred Views of Mount Fuji (Fugaku Hyakkei), tr. in Dora Amsden, Impressions of Ukiyo-ye (1905)",
+      "year": 1834,
+      "form": "prose",
+      "original_language": "Japanese",
+      "translator": "Dora Amsden (1905)",
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/69418/pg69418.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Japanese original 1834; English translation published 1905 (Amsden). Both public domain.",
+      "themes": [
+        "mastery",
+        "ageing",
+        "patience",
+        "art",
+        "lifelong learning"
+      ],
+      "length_words": 121,
+      "comic_potential": 5,
+      "story_seed": "A 74-year-old retired signwriter joins a beginners' life-drawing class full of art students and draws the same lopsided horse every Tuesday; the pages jump forward in decades until, at his 110th birthday party in the care home, one brushstroke of his horse gallops off the paper and out the window.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "Not adapted by Zen Pencils, but already made into this project's own comic 'Every Line Alive'."
+      },
+      "notes": "Already adapted by this project as 'Every Line Alive' (scratch/2026-09-27-zen-pencils/README.md). Not adapted by Zen Pencils (Hokusai only appears in a reader comment on the Asimov comic). Several translations exist; Amsden's is the public-domain one.",
+      "used_in_this_project": true
+    },
+    {
+      "id": "whitman-noiseless-patient-spider",
+      "text": "A noiseless patient spider,\nI mark'd where on a little promontory it stood isolated,\nMark'd how to explore the vacant vast surrounding,\nIt launch'd forth filament, filament, filament, out of itself,\nEver unreeling them, ever tirelessly speeding them.\n\nAnd you O my soul where you stand,\nSurrounded, detached, in measureless oceans of space,\nCeaselessly musing, venturing, throwing, seeking the spheres to connect them,\nTill the bridge you will need be form'd, till the ductile anchor hold,\nTill the gossamer thread you fling catch somewhere, O my soul.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Walt Whitman",
+      "author_dates": "1819-1892",
+      "work": "A Noiseless Patient Spider (Leaves of Grass, 1881-82 text)",
+      "year": 1868,
+      "form": "poem",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Whispers_of_Heavenly_Death/A_Noiseless_Patient_Spider",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1868 (this text 1881-82); all works published before 1929 are public domain in the US.",
+      "themes": [
+        "loneliness",
+        "connection",
+        "persistence",
+        "reaching out"
+      ],
+      "length_words": 87,
+      "comic_potential": 5,
+      "story_seed": "A widowed Korean grandmother newly moved into a silent London block throws out small threads (a wave, kimchi left on a doorstep, a note in bad English) that each fail, drawn as strands of silk drifting in the stairwell, until one lands on the boy in 4B, who knocks with an empty, washed jar.",
+      "zp_adapted_author": {
+        "value": true,
+        "slugs": [
+          "45-walt-whitman-o-me-o-life",
+          "88-walt-whitman-when-i-heard-the-learnd-astronomer"
+        ]
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Zen Pencils adapted two other Whitman poems (#45, #88), not this one.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "newton-boy-on-the-seashore",
+      "text": "I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.",
+      "popular_text": null,
+      "flags": [
+        "reported_speech"
+      ],
+      "author": "Isaac Newton (reported)",
+      "author_dates": "1643-1727",
+      "work": "Reported shortly before his death; printed in Joseph Spence's Anecdotes (1820) and David Brewster, Memoirs of Sir Isaac Newton (1855), vol. II ch. 27",
+      "year": 1855,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikiquote.org/wiki/Isaac_Newton",
+      "verification_level": "secondary: a sourced Wikiquote entry citing the primary source",
+      "public_domain_reason": "Printed in 1820 and 1855; public domain.",
+      "themes": [
+        "humility",
+        "curiosity",
+        "science",
+        "wonder"
+      ],
+      "length_words": 56,
+      "comic_potential": 5,
+      "story_seed": "A world-famous physicist, 90 and frail, slips away from her own gala dinner to a cold beach below the hotel and spends the night in evening dress turning over pebbles by torchlight with a small boy who doesn't know who she is; the last panel is an ocean so large it runs off every edge of the page.",
+      "zp_adapted_author": {
+        "value": true,
+        "slugs": [
+          "152-on-the-shoulders-of-giants-the-science-all-stars-poster"
+        ]
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "#152 is a science poster titled with Newton's 'shoulders of giants' line; it does not use the seashore quote."
+      },
+      "notes": "Recorded second-hand (the source is Newton's nephew-in-law John Conduitt), not written by Newton. Zen Pencils #152 (science poster) uses Newton's different 'shoulders of giants' line as its title; this quote is not adapted.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "wheatley-love-of-freedom",
+      "text": "in every human Breast, God has implanted a Principle, which we call Love of Freedom; it is impatient of Oppression, and pants for Deliverance",
+      "popular_text": null,
+      "flags": [],
+      "author": "Phillis Wheatley",
+      "author_dates": "c.1753-1784",
+      "work": "Letter to the Rev. Samson Occom, 11 Feb 1774 (printed in the Connecticut Gazette, March 1774)",
+      "year": 1774,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://constitutioncenter.org/the-constitution/historic-document-library/detail/phillis-wheatley-peters-letter-to-reverend-samuel-occum-february-11-1774",
+      "verification_level": "primary transcription on a reliable site",
+      "public_domain_reason": "Published 1774; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "freedom",
+        "justice",
+        "faith",
+        "voice"
+      ],
+      "length_words": 24,
+      "comic_potential": 4,
+      "story_seed": "A 20-year-old enslaved poet in 1774 Boston writes by candlelight a letter that will be printed in the newspapers; the comic cuts between her quill and a caged goldfinch in the parlour that keeps battering the bars, and ends the morning the paper is sold on the street, with the cage door found open.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Mid-sentence excerpt (the sentence starts 'I do not say they would have been contented without it, by no means, for...').",
+      "used_in_this_project": false
+    },
+    {
+      "id": "sojourner-truth-as-much-muscle",
+      "text": "I have as much muscle as any man, and can do as much work as any man. I have plowed and reaped and husked and chopped and mowed, and can any man do more than that?",
+      "popular_text": "Ain't I a woman?",
+      "flags": [
+        "reported_speech",
+        "popular_wording_differs"
+      ],
+      "author": "Sojourner Truth",
+      "author_dates": "c.1797-1883",
+      "work": "Speech at the Woman's Rights Convention, Akron, Ohio, 1851, as reported by Marius Robinson in the Anti-Slavery Bugle, 21 June 1851",
+      "year": 1851,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.thesojournertruthproject.com/compare-the-speeches/",
+      "verification_level": "primary transcription on a reliable site",
+      "public_domain_reason": "Published 1851; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "equality",
+        "work",
+        "strength",
+        "women"
+      ],
+      "length_words": 36,
+      "comic_potential": 4,
+      "story_seed": "At a village fair's strongman booth that only lets men try, an old farm woman in a bonnet silently rolls up her sleeves and, one by one, out-ploughs, out-reaps and out-chops the hired champion in a harvest contest drawn like a boxing bout, then collects the prize purse and hands it to the girls watching from the fence.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The famous 'Ain't I a Woman?' refrain comes from Frances Gage's 1863 version, published twelve years later and written in a Southern dialect Truth (a New Yorker whose first language was Dutch) did not speak. The 1851 Robinson report is considered closer to what she said.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "douglass-no-struggle-no-progress",
+      "text": "If there is no struggle there is no progress. Those who profess to favor freedom and yet deprecate agitation are men who want crops without plowing up the ground; they want rain without thunder and lightning. They want the ocean without the awful roar of its many waters.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Frederick Douglass",
+      "author_dates": "1818-1895",
+      "work": "West India Emancipation speech, Canandaigua, New York, 3 Aug 1857",
+      "year": 1857,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.blackpast.org/african-american-history/1857-frederick-douglass-if-there-no-struggle-there-no-progress/",
+      "verification_level": "primary transcription on a reliable site",
+      "public_domain_reason": "Published 1857; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "struggle",
+        "progress",
+        "activism",
+        "nature imagery"
+      ],
+      "length_words": 48,
+      "comic_potential": 4,
+      "story_seed": "At a polite town-hall meeting where every speaker wants 'change, but quietly', drawn as rows of tiny potted plants, a young cleaner takes the microphone, and with each of her sentences the chamber turns into a ploughed field, then a thunderstorm, then a roaring sea that washes the potted plants out the door.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Continues: 'Power concedes nothing without a demand.'",
+      "used_in_this_project": false
+    },
+    {
+      "id": "coubertin-not-the-triumph",
+      "text": "L'important dans la vie ce n'est point le triomphe mais le combat. L'essentiel ce n'est pas d'avoir vaincu mais de s'être bien battu.",
+      "popular_text": "The most important thing in the Olympic Games is not winning but taking part.",
+      "flags": [
+        "popular_wording_differs",
+        "translation"
+      ],
+      "author": "Pierre de Coubertin",
+      "author_dates": "1863-1937",
+      "work": "Speech at a British Government banquet, London Olympic Games, 24 July 1908",
+      "year": 1908,
+      "form": "prose",
+      "original_language": "French",
+      "translator": null,
+      "english_gloss": "The important thing in life is not the triumph but the struggle. The essential thing is not to have won but to have fought well.",
+      "verified_url": "https://www.olympedia.org/definitions/117",
+      "verification_level": "primary transcription on a reliable site",
+      "public_domain_reason": "Spoken and printed in 1908; author died 1937. Public domain.",
+      "themes": [
+        "sport",
+        "effort",
+        "character",
+        "losing well"
+      ],
+      "length_words": 23,
+      "comic_potential": 4,
+      "story_seed": "The last-placed runner in a school sports day, a boy with a leg brace, is still on the track as groundskeepers start stacking chairs; the winner, heading home, turns back and runs the final 100 metres beside him, and the last panel is the empty finish line tape strung up again just for them.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Coubertin was building on a sermon by Bishop Ethelbert Talbot (19 July 1908). The popular 'taking part' line is the Olympic Creed's later form.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "bly-nothing-is-impossible",
+      "text": "I always have a comfortable feeling that nothing is impossible if one applies a certain amount of energy in the right direction. When I want things done, which is always at the last moment, and I am met with such an answer: \"It's too late. I hardly think it can be done;\" I simply say: \"Nonsense! If you want to do it, you can do it. The question is, do you want to do it?\"",
+      "popular_text": null,
+      "flags": [],
+      "author": "Nellie Bly (Elizabeth Cochrane Seaman)",
+      "author_dates": "1864-1922",
+      "work": "Around the World in Seventy-Two Days",
+      "year": 1890,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://digital.library.upenn.edu/women/bly/world/world.html",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1890; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "determination",
+        "travel",
+        "women",
+        "journalism"
+      ],
+      "length_words": 75,
+      "comic_potential": 4,
+      "story_seed": "A 25-year-old reporter is told at 5 p.m. that the steamer leaves at 9 a.m. and no dressmaker can make her a travelling dress in time; the comic is a frantic one-night montage of her talking a tailor, a trunk-maker and a ticket clerk into 'yes', ending with her waving from the deck in a dress still pinned at the hem.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "",
+      "used_in_this_project": false
+    },
+    {
+      "id": "scott-had-we-lived",
+      "text": "Had we lived, I should have had a tale to tell of the hardihood, endurance, and courage of my companions which would have stirred the heart of every Englishman. These rough notes and our dead bodies must tell the tale",
+      "popular_text": null,
+      "flags": [],
+      "author": "Robert Falcon Scott",
+      "author_dates": "1868-1912",
+      "work": "'Message to the Public', Scott's Last Expedition vol. I (written March 1912)",
+      "year": 1913,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/11579/pg11579.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1913; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "sacrifice",
+        "friendship",
+        "legacy",
+        "storytelling"
+      ],
+      "length_words": 40,
+      "comic_potential": 4,
+      "story_seed": "A teenage care-home volunteer, told to read to a silent old man, finds a frost-stained notebook in his drawer and reads aloud the story of three friends who never came down from a Himalayan col; only at the end does she realise he was the fourth man, sent back for help, who has spent sixty years as the 'rough notes'.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Excerpt ends mid-sentence ('...must tell the tale, but surely, surely...').",
+      "used_in_this_project": false
+    },
+    {
+      "id": "edison-several-thousand-things",
+      "text": "Results! Why, man, I have gotten a lot of results! I know several thousand things that won't work.",
+      "popular_text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "flags": [
+        "popular_wording_differs",
+        "reported_speech"
+      ],
+      "author": "Thomas A. Edison (reported by Walter S. Mallory)",
+      "author_dates": "1847-1931",
+      "work": "Frank Lewis Dyer & Thomas Commerford Martin, Edison: His Life and Inventions, vol. II",
+      "year": 1910,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/820/pg820.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1910; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "failure",
+        "persistence",
+        "experiment",
+        "reframing"
+      ],
+      "length_words": 18,
+      "comic_potential": 4,
+      "story_seed": "A 12-year-old trying to rebuild her late grandmother's sourdough loaf pins every failed loaf's photo to the fridge until the door disappears; her dad calls it a waste, and the turn is a page where she reads the fridge like a map, crossing off each failure, before the last photo shows the perfect crumb.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The popular '10,000 ways' wording is a later paraphrase; Quote Investigator traces the Mallory anecdote.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "mitchell-imagination-in-science",
+      "text": "We especially need imagination in science. It is not all mathematics, nor all logic, but it is somewhat beauty and poetry.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Maria Mitchell",
+      "author_dates": "1818-1889",
+      "work": "Maria Mitchell: Life, Letters, and Journals, ed. Phebe Mitchell Kendall",
+      "year": 1896,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/10202/pg10202.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1896; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "science",
+        "imagination",
+        "women in STEM",
+        "beauty"
+      ],
+      "length_words": 21,
+      "comic_potential": 4,
+      "story_seed": "A girl failing algebra is sent to rooftop 'detention' with the school janitor, who turns out to have a homemade telescope; her margin doodles of lunar craters slowly turn into measurements, and the last panel shows her at 40 in an observatory dome, the janitor's telescope on a shelf behind her.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Mitchell discovered a comet in 1847 and was the first American woman professional astronomer.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "henson-the-trail-is-calling",
+      "text": "I yearn to be with those who reach the South Pole, the lure of the Arctic is tugging at my heart, to me the trail is calling! \"The Old Trail! The Trail that is always New!\"",
+      "popular_text": null,
+      "flags": [],
+      "author": "Matthew A. Henson",
+      "author_dates": "1866-1955",
+      "work": "A Negro Explorer at the North Pole",
+      "year": 1912,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/20923/pg20923.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1912; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "exploration",
+        "longing",
+        "recognition",
+        "adventure"
+      ],
+      "length_words": 36,
+      "comic_potential": 4,
+      "story_seed": "A middle-aged Black clerk stamps crates in a sweltering New York customs house; every crate labelled GREENLAND frosts the edges of the panels until the office dissolves into ice and sled dogs, and the last panel returns to his desk, where he quietly re-laces his old sealskin boots under the table.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Henson reached the North Pole with Peary in 1909 but went uncredited for decades and worked as a customs clerk.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "booker-t-washington-obstacles",
+      "text": "I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Booker T. Washington",
+      "author_dates": "1856-1915",
+      "work": "Up from Slavery, ch. II",
+      "year": 1901,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/2376/pg2376.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1901; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "success",
+        "obstacles",
+        "resilience",
+        "perspective"
+      ],
+      "length_words": 33,
+      "comic_potential": 4,
+      "story_seed": "Two cousins sit the same engineering exam and both score 72; the comic replays each one's morning in split panels, one driven door to door and the other wading a flooded village road, crossing a broken bridge and outlasting a bus strike, and ends on the same scoreboard number now drawn at two very different heights.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "",
+      "used_in_this_project": false
+    },
+    {
+      "id": "zitkala-sa-voice-of-the-great-spirit",
+      "text": "A wee child toddling in a wonder world, I prefer to their dogma my excursions into the natural gardens where the voice of the Great Spirit is heard in the twittering of birds, the rippling of mighty waters, and the sweet breathing of flowers.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Zitkála-Šá (Gertrude Simmons Bonnin)",
+      "author_dates": "1876-1938",
+      "work": "'The Great Spirit' in American Indian Stories (first published as 'Why I Am a Pagan', Atlantic Monthly, 1902)",
+      "year": 1921,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/10376/pg10376.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1902/1921; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "nature",
+        "spirituality",
+        "identity",
+        "resistance"
+      ],
+      "length_words": 44,
+      "comic_potential": 4,
+      "story_seed": "A Yankton Dakota girl at an 1890s boarding school, hair freshly shorn, is punished for staring out of the chapel window; the sermon fades into grey panels while outside every bird, river and flower is drawn in beadwork patterns, and the final panel has her grown-up self teaching her own students under that same tree.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Dakota (Yankton) writer, musician and activist.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "kovalevskaya-poet-and-mathematician",
+      "text": "In reality, however, it is a science which requires a great amount of imagination, and one of the leading mathematicians of our century states the case quite correctly when he says that it is impossible to be a mathematician without being a poet in soul. ... It seems to me that the poet has only to perceive that which others do not perceive, to look deeper than others look. And the mathematician must do the same thing.",
+      "popular_text": "It is impossible to be a mathematician without being a poet in soul.",
+      "flags": [
+        "popular_wording_differs",
+        "translation",
+        "excerpt"
+      ],
+      "author": "Sofia Kovalevskaya",
+      "author_dates": "1850-1891",
+      "work": "Letter quoted in Sónya Kovalévsky: Her Recollections of Childhood, tr. Isabel F. Hapgood",
+      "year": 1895,
+      "form": "prose",
+      "original_language": "Russian",
+      "translator": "Isabel F. Hapgood (1895)",
+      "english_gloss": null,
+      "verified_url": "https://archive.org/stream/snyakovalvsk00kovauoft/snyakovalvsk00kovauoft_djvu.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Translation published 1895; author died 1891. Public domain.",
+      "themes": [
+        "mathematics",
+        "poetry",
+        "imagination",
+        "women in STEM"
+      ],
+      "length_words": 76,
+      "comic_potential": 4,
+      "story_seed": "A girl in an 1860s Russian country house whose nursery was papered with her father's old calculus lecture notes (true to Kovalevskaya's childhood) reads the walls every night as though they were poems; the final panel shows the grown woman at a Stockholm blackboard, the chalk lines curling like the old wallpaper.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The popular line is usually given as hers, but she was quoting 'one of the leading mathematicians of our century' (probably her teacher Weierstrass). Her own sentence is the one about the poet perceiving what others do not.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "okakura-greatness-of-little-things",
+      "text": "Those who cannot feel the littleness of great things in themselves are apt to overlook the greatness of little things in others.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Okakura Kakuzō",
+      "author_dates": "1862-1913",
+      "work": "The Book of Tea, ch. I (written in English)",
+      "year": 1906,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/769/pg769.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1906; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "humility",
+        "attention",
+        "art",
+        "kindness"
+      ],
+      "length_words": 22,
+      "comic_potential": 4,
+      "story_seed": "A celebrated Tokyo chef, too important to taste his staff's food, is left stranded by a snowstorm with only the dishwasher, an old man who makes him a bowl of plain rice and pickles; the chef's face moves from contempt to tears over one silent page, and the epilogue shows the dish on his menu, credited.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "",
+      "used_in_this_project": false
+    },
+    {
+      "id": "lazarus-new-colossus",
+      "text": "Not like the brazen giant of Greek fame,\nWith conquering limbs astride from land to land;\nHere at our sea-washed, sunset gates shall stand\nA mighty woman with a torch, whose flame\nIs the imprisoned lightning, and her name\nMother of Exiles. From her beacon-hand\nGlows world-wide welcome; her mild eyes command\nThe air-bridged harbor that twin cities frame.\n\"Keep, ancient lands, your storied pomp!\" cries she\nWith silent lips. \"Give me your tired, your poor,\nYour huddled masses yearning to breathe free,\nThe wretched refuse of your teeming shore.\nSend these, the homeless, tempest-tost to me,\nI lift my lamp beside the golden door!\"",
+      "popular_text": null,
+      "flags": [],
+      "author": "Emma Lazarus",
+      "author_dates": "1849-1887",
+      "work": "The New Colossus",
+      "year": 1883,
+      "form": "poem",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/The_New_Colossus",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1883; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "welcome",
+        "immigration",
+        "compassion",
+        "hope"
+      ],
+      "length_words": 110,
+      "comic_potential": 4,
+      "story_seed": "A night cleaner in an airport arrivals hall, herself a refugee twenty years ago, keeps a box of lost gloves and scarves that she hands to shivering families off late flights; the last page reveals that the first, tiny mitten in the box is the one she arrived wearing.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Complete sonnet.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "seacole-longing-to-travel",
+      "text": "As I grew into womanhood, I began to indulge that longing to travel which will never leave me while I have health and vigour. I was never weary of tracing upon an old map the route to England; and never followed with my gaze the stately ships homeward bound without longing to be in them, and see the blue hills of Jamaica fade into the distance.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Mary Seacole",
+      "author_dates": "1805-1881",
+      "work": "Wonderful Adventures of Mrs. Seacole in Many Lands, ch. I",
+      "year": 1857,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/23031/pg23031.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1857; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "wanderlust",
+        "ambition",
+        "women",
+        "healing"
+      ],
+      "length_words": 66,
+      "comic_potential": 4,
+      "story_seed": "A Jamaican teenager selling patties on the Kingston docks traces cruise-ship routes with her finger on a torn map glued to her cool-box; the comic jumps between her selling and her dreaming, then to decades later, where the same map is taped to the inside of her medical kit on a disaster-relief ship.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Jamaican-Scottish nurse and businesswoman who ran the 'British Hotel' for soldiers in the Crimea.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "millay-first-fig",
+      "text": "My candle burns at both ends;\nIt will not last the night;\nBut ah, my foes, and oh, my friends—\nIt gives a lovely light!",
+      "popular_text": null,
+      "flags": [],
+      "author": "Edna St. Vincent Millay",
+      "author_dates": "1892-1950",
+      "work": "First Fig (Poetry, June 1918; A Few Figs from Thistles, 1920)",
+      "year": 1918,
+      "form": "poem",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/A_Few_Figs_from_Thistles_(Harper_%26_Brothers,_1922)/First_Fig",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1918; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "intensity",
+        "youth",
+        "joy",
+        "mortality"
+      ],
+      "length_words": 25,
+      "comic_potential": 4,
+      "story_seed": "A 1920s night-shift telephone switchboard girl who dances until dawn and then works the day shift is scolded by a matron about 'burning out'; the comic is lit only by her candle and the switchboard lamps, and the final panel shows the whole town's windows lit by calls she is connecting.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Complete poem, 4 lines.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "georgia-douglas-johnson-heart-of-a-woman",
+      "text": "The heart of a woman goes forth with the dawn,\nAs a lone bird, soft winging, so restlessly on,\nAfar o'er life's turrets and vales does it roam\nIn the wake of those echoes the heart calls home.\n\nThe heart of a woman falls back with the night,\nAnd enters some alien cage in its plight,\nAnd tries to forget it has dreamed of the stars\nWhile it breaks, breaks, breaks on the sheltering bars.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Georgia Douglas Johnson",
+      "author_dates": "1880-1966",
+      "work": "The Heart of a Woman (The Heart of a Woman and Other Poems, 1918)",
+      "year": 1918,
+      "form": "poem",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/The_Heart_of_a_Woman_and_Other_Poems/The_Heart_of_a_Woman",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1918; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "longing",
+        "confinement",
+        "women",
+        "dreams"
+      ],
+      "length_words": 75,
+      "comic_potential": 4,
+      "story_seed": "A 1918 Washington D.C. schoolteacher's day is drawn as a bird flying out at dawn over rooftops and Potomac, and at dusk she returns to a birdcage-shaped kitchen; the twist on the last page is her daughter, who has been reading her mother's hidden poems, prising one bar loose.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Harlem Renaissance poet. Complete poem, 8 lines. It is sad rather than triumphant, so a comic would need to supply the turn.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "dunbar-sympathy-caged-bird",
+      "text": "I know why the caged bird sings, ah me,\n   When his wing is bruised and his bosom sore,—\nWhen he beats his bars and he would be free;\nIt is not a carol of joy or glee,\n   But a prayer that he sends from his heart's deep core,\nBut a plea, that upward to Heaven he flings—\nI know why the caged bird sings!",
+      "popular_text": null,
+      "flags": [],
+      "author": "Paul Laurence Dunbar",
+      "author_dates": "1872-1906",
+      "work": "Sympathy (Lyrics of the Hearthside, 1899), stanza 3",
+      "year": 1899,
+      "form": "poem excerpt",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Paul_Laurence_Dunbar/Sympathy",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Private letter written 1899; author died 1912, so public domain (life+70), and it has long been printed and held in the Smithsonian archives.",
+      "themes": [
+        "oppression",
+        "hope",
+        "art as resistance"
+      ],
+      "length_words": 64,
+      "comic_potential": 4,
+      "story_seed": "An elevator operator in an 1890s Dayton office building, a published poet whom no publisher will meet, recites his verses to himself between floors; each ride up is drawn as a cage rising, and the final panel shows a passenger, a young girl, quietly mouthing his lines back to him as the doors open.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "Zen Pencils adapted Maya Angelou (#153), whose book title comes from this stanza, but not Dunbar."
+      },
+      "notes": "Dunbar did work as an elevator operator in Dayton. Maya Angelou took her title from this stanza; Zen Pencils adapted Angelou (#153) but not Dunbar.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "khayyam-moving-finger",
+      "text": "The Moving Finger writes; and, having writ,\nMoves on: nor all thy Piety nor Wit\nShall lure it back to cancel half a Line,\nNor all thy Tears wash out a Word of it.",
+      "popular_text": null,
+      "flags": [
+        "edition_variants"
+      ],
+      "author": "Omar Khayyám, tr. Edward FitzGerald",
+      "author_dates": "1048-1131 (tr. 1809-1883)",
+      "work": "Rubáiyát of Omar Khayyám, stanza LI (FitzGerald's 5th edition, 1889)",
+      "year": 1889,
+      "form": "poem",
+      "original_language": "Persian",
+      "translator": "Edward FitzGerald",
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/246/pg246.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1889; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "regret",
+        "time",
+        "acceptance",
+        "consequence"
+      ],
+      "length_words": 34,
+      "comic_potential": 4,
+      "story_seed": "A tattoo apprentice misspells a word on a client's forearm on her first solo job; after pages of panic and failed cover-up sketches, the client, an old sailor, decides to keep it and has her build the rest of his sleeve around the mistake.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "FitzGerald's 1859 first edition (stanza LI) reads 'your Piety', 'your Tears'. FitzGerald's version is a free adaptation rather than a literal translation.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "li-po-drifting",
+      "text": "We cannot keep the gold of yesterday;\nTo-day's dun clouds we cannot roll away.\nNow the long, wailing flight of geese brings autumn in its train,\nSo to the view-tower cup in hand to fill and drink again,\nAnd dream of the greatest singers of the past,\nTheir fadeless lines of fire and beauty cast.\nI too have felt the wild-bird thrill of song behind the bars,\nBut these have brushed the world aside and walked amid the stars.\nIn vain we cleave the torrent's thread with steel,\nIn vain we drink to drown the grief we feel;\nWhen man's desire with fate doth war this, this avails alone—\nTo hoist the sail and let the gale and the waters bear us on.",
+      "popular_text": null,
+      "flags": [
+        "loose_translation"
+      ],
+      "author": "Li Po (Li Bai), tr. L. Cranmer-Byng",
+      "author_dates": "701-762 (tr. 1872-1945)",
+      "work": "'Drifting', A Lute of Jade: Selections from the Classical Poets of China",
+      "year": 1909,
+      "form": "poem",
+      "original_language": "Classical Chinese",
+      "translator": "L. Cranmer-Byng (1909)",
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/390/pg390.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1909; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "letting go",
+        "art",
+        "fate",
+        "wandering"
+      ],
+      "length_words": 126,
+      "comic_potential": 4,
+      "story_seed": "A failed young calligrapher in Tang-dynasty style dress (or a modern Shanghai art student, same beats) drinks alone in a watchtower as geese fly south, tries to hack a river in two with his sword out of frustration, then gives up and pushes a tiny boat out onto the current, the final panels showing his brushstrokes turning into the river itself.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Cranmer-Byng's versions are free verse paraphrases, not literal translations.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "kabir-fish-is-thirsty",
+      "text": "I laugh when I hear that the fish in the water is thirsty:\nYou do not see that the Real is in your home, and you wander from forest to forest listlessly!\nHere is the truth! Go where you will, to Benares or to Mathura; if you do not find your soul, the world is unreal to you.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Kabir, tr. Rabindranath Tagore",
+      "author_dates": "c.1440-1518 (tr. 1861-1941)",
+      "work": "Songs of Kabir, XLIII (I. 82), tr. Rabindranath Tagore",
+      "year": 1915,
+      "form": "poem",
+      "original_language": "Hindi",
+      "translator": "Rabindranath Tagore (with Evelyn Underhill)",
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/6519/pg6519.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1915; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "seeking",
+        "inner life",
+        "travel",
+        "satire"
+      ],
+      "length_words": 58,
+      "comic_potential": 4,
+      "story_seed": "A goldfish in a bowl on a travel agent's desk watches its owner plan his fortieth 'find yourself' trip; the comic intercuts his burnt-out selfies in Varanasi and Bali with the fish calmly circling, and ends with him home, jet-lagged, finally sitting still long enough to notice the fish.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "The translator, Tagore, was adapted (#133); Kabir himself was not."
+      },
+      "notes": "Zen Pencils adapted Tagore's own work (#133) but not Kabir.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "stevenson-travel-hopefully",
+      "text": "Little do ye know your own blessedness; for to travel hopefully is a better thing than to arrive, and the true success is to labour.",
+      "popular_text": "It is better to travel hopefully than to arrive.",
+      "flags": [
+        "popular_wording_differs"
+      ],
+      "author": "Robert Louis Stevenson",
+      "author_dates": "1850-1894",
+      "work": "'El Dorado' in Virginibus Puerisque",
+      "year": 1881,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/386/pg386.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1881; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "journey",
+        "process",
+        "hope",
+        "work"
+      ],
+      "length_words": 25,
+      "comic_potential": 4,
+      "story_seed": "Two elderly sisters drive a wheezing camper van across the Australian outback to see a famous rock at sunset; they arrive to find it swallowed by fog, and after a stunned silence they laugh until they cry, and the final spread is a collage of every breakdown and roadside picnic that got them there.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "",
+      "used_in_this_project": false
+    },
+    {
+      "id": "bronte-no-bird",
+      "text": "I am no bird; and no net ensnares me; I am a free human being with an independent will, which I now exert to leave you.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Charlotte Brontë",
+      "author_dates": "1816-1855",
+      "work": "Jane Eyre, ch. XXIII",
+      "year": 1847,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/1260/pg1260.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1847; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "independence",
+        "self-respect",
+        "women",
+        "freedom"
+      ],
+      "length_words": 26,
+      "comic_potential": 4,
+      "story_seed": "A singer billed as 'the Caged Songbird' in a 1920s travelling circus performs every night inside a giant gilded birdcage owned by the ringmaster, who proposes marriage; during the finale she unlatches the cage from the inside and walks out through the audience, still singing.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "",
+      "used_in_this_project": false
+    },
+    {
+      "id": "alcott-sail-my-ship",
+      "text": "I'm not afraid of storms, for I'm learning how to sail my ship.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Louisa May Alcott",
+      "author_dates": "1832-1888",
+      "work": "Little Women, Part Second (Good Wives), ch. XXIII (Amy speaking)",
+      "year": 1869,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/514/pg514.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1869; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "resilience",
+        "learning",
+        "self-reliance"
+      ],
+      "length_words": 13,
+      "comic_potential": 4,
+      "story_seed": "A newly widowed woman in a Maine fishing village inherits her husband's lobster boat, which she has never steered; the harbour men bet on how soon she will sell, and the turn is a squall in which she is the only boat that goes out to tow one of them home.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Spoken by Amy, not Jo; often misattributed to Alcott in the first person.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "darwin-grandeur-in-this-view",
+      "text": "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Charles Darwin",
+      "author_dates": "1809-1882",
+      "work": "On the Origin of Species, 1st ed., closing paragraph",
+      "year": 1859,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/1228/pg1228.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1859; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "wonder",
+        "nature",
+        "science",
+        "deep time"
+      ],
+      "length_words": 57,
+      "comic_potential": 4,
+      "story_seed": "A bored boy on a long car trip plays 'I spy' with his grandmother, and each answer zooms the art out through deep time, from a puddle's single cell to fish, lizard and ape, until it arrives at the grandmother's wrinkled hand holding his; the final panel is the boy's own reflection in the car window.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "Darwin appears only as a portrait in the #152 science poster, with no quote adapted."
+      },
+      "notes": "From the 2nd edition on, Darwin added 'by the Creator' after 'breathed'. Popular misquote to avoid: 'It is not the strongest of the species that survives...' (a 1963 paraphrase by Leon Megginson), which was dropped.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "faraday-nothing-too-wonderful",
+      "text": "Nothing is too wonderful to be true, if it be consistent with the laws of nature; and in such things as these, experiment is the best test of such consistency.",
+      "popular_text": "Nothing is too wonderful to be true.",
+      "flags": [
+        "popular_wording_differs"
+      ],
+      "author": "Michael Faraday",
+      "author_dates": "1791-1867",
+      "work": "Laboratory journal entry #10,040, 19 March 1849; printed in Bence Jones, The Life and Letters of Faraday (1870), vol. II p. 248",
+      "year": 1849,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikiquote.org/wiki/Michael_Faraday",
+      "verification_level": "secondary: a sourced Wikiquote entry citing the primary source",
+      "public_domain_reason": "Published 1870; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "wonder",
+        "experiment",
+        "science",
+        "curiosity"
+      ],
+      "length_words": 30,
+      "comic_potential": 4,
+      "story_seed": "A bookbinder's apprentice in 1810s London (as Faraday was) secretly reads the science books he is binding under the workbench candle, sparks jumping from page to fingertips, and the story ends with the grown man's public Christmas lecture, where the apprentice sitting in the front row is a girl.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "Faraday appears only as a portrait in the #152 science poster, with no quote adapted."
+      },
+      "notes": "Usually quoted without its second, more important half.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "pasteur-prepared-mind",
+      "text": "Dans les champs de l'observation le hasard ne favorise que les esprits préparés.",
+      "popular_text": "Chance favors the prepared mind.",
+      "flags": [
+        "popular_wording_differs",
+        "translation"
+      ],
+      "author": "Louis Pasteur",
+      "author_dates": "1822-1895",
+      "work": "Inaugural lecture, Faculty of Sciences, University of Lille, 7 Dec 1854",
+      "year": 1854,
+      "form": "prose",
+      "original_language": "French",
+      "translator": null,
+      "english_gloss": "In the fields of observation chance favours only the prepared mind.",
+      "verified_url": "https://en.wikiquote.org/wiki/Louis_Pasteur",
+      "verification_level": "secondary: a sourced Wikiquote entry citing the primary source",
+      "public_domain_reason": "Spoken 1854 and printed in the 19th century; author died 1895. Public domain.",
+      "themes": [
+        "preparation",
+        "luck",
+        "discovery",
+        "science"
+      ],
+      "length_words": 13,
+      "comic_potential": 4,
+      "story_seed": "A night-shift hospital cleaner who has been quietly reading the lab's discarded journals notices the same odd mould on three abandoned Petri dishes that the exhausted researchers binned; the turn is her deciding to knock on the lab door at 3 a.m. with the dishes in a mop bucket.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "Pasteur appears only as a portrait in the #152 science poster, with no quote adapted."
+      },
+      "notes": "",
+      "used_in_this_project": false
+    },
+    {
+      "id": "joe-hill-organize",
+      "text": "Goodbye Bill. I die like a true blue rebel. Don't waste any time in mourning. Organize.",
+      "popular_text": "Don't mourn, organize!",
+      "flags": [
+        "popular_wording_differs"
+      ],
+      "author": "Joe Hill (Joel Hägglund)",
+      "author_dates": "1879-1915",
+      "work": "Telegram to William D. 'Big Bill' Haywood, 18 Nov 1915; printed in International Socialist Review, Dec 1915",
+      "year": 1915,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikiquote.org/wiki/Joe_Hill_(activist)",
+      "verification_level": "secondary: a sourced Wikiquote entry citing the primary source",
+      "public_domain_reason": "Published 1915; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "labour",
+        "solidarity",
+        "grief into action",
+        "defiance"
+      ],
+      "length_words": 16,
+      "comic_potential": 4,
+      "story_seed": "After a beloved old miner dies in a pit collapse, his mourners gather with black armbands; his granddaughter reads his last scrawled note at the wake, rips her armband into strips, and the final panel shows every strip tied as a sign-up ribbon on the union hall door.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Swedish-American migrant labourer and songwriter.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "chief-joseph-let-me-be-a-free-man",
+      "text": "Let me be a free man, free to travel, free to stop, free to work, free to trade where I choose, free to choose my own teachers, free to follow the religion of my fathers, free to talk, think and act for myself — and I will obey every law or submit to the penalty.",
+      "popular_text": null,
+      "flags": [
+        "reported_speech"
+      ],
+      "author": "Chief Joseph (Hinmatóowyalahtq̓it)",
+      "author_dates": "1840-1904",
+      "work": "'An Indian's View of Indian Affairs', North American Review, April 1879 (Lincoln Hall speech, Washington, Jan 1879)",
+      "year": 1879,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.americanyawp.com/reader/17-conquering-the-west/chief-joseph-on-indian-affairs-1877-1879/",
+      "verification_level": "primary transcription on a reliable site",
+      "public_domain_reason": "Published 1879; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "freedom",
+        "dignity",
+        "justice",
+        "self-determination"
+      ],
+      "length_words": 54,
+      "comic_potential": 4,
+      "story_seed": "Each clause of the sentence becomes one panel of a single Nez Perce family's day on a reservation, where every ordinary act (travelling, trading, praying, speaking) is stopped by a fence, a permit or an agent, and the final panel shows the same family, drawn as a horizon-wide silhouette, on horseback with the fences gone.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Given through an interpreter. The popular 'I will fight no more forever' surrender speech (1877) is also documented but was set aside as less uplifting.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "muir-climb-the-mountains",
+      "text": "Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop off like autumn leaves.",
+      "popular_text": null,
+      "flags": [],
+      "author": "John Muir",
+      "author_dates": "1838-1914",
+      "work": "Our National Parks, ch. II",
+      "year": 1901,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/60929/pg60929.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1901; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "nature",
+        "renewal",
+        "peace",
+        "wilderness"
+      ],
+      "length_words": 41,
+      "comic_potential": 4,
+      "story_seed": "A stressed accountant carries a briefcase up a Sierra trail, and at each switchback a worry (an invoice, a phone, a tie) peels away and flutters down like an autumn leaf, until at the summit he is barefoot and laughing in the wind; on the descent he has to pick every leaf back up, and chooses to leave half of them.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The better-known 'The mountains are calling and I must go' is authentic (letter to his sister Sarah, 3 Sept 1873, printed in Badè's Life and Letters, 1924) but was not re-verified against a primary text here, so this passage is used instead.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "anthony-failure-is-impossible",
+      "text": "There have been others also just as true and devoted to the cause — I wish I could name every one — but with such women consecrating their lives, failure is impossible!",
+      "popular_text": "Failure is impossible.",
+      "flags": [
+        "popular_wording_differs"
+      ],
+      "author": "Susan B. Anthony",
+      "author_dates": "1820-1906",
+      "work": "Remarks at her 86th-birthday celebration, NAWSA convention, Baltimore, 15 Feb 1906",
+      "year": 1906,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikiquote.org/wiki/Susan_B._Anthony",
+      "verification_level": "secondary: a sourced Wikiquote entry citing the primary source",
+      "public_domain_reason": "Published 1906; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "persistence",
+        "legacy",
+        "solidarity",
+        "women"
+      ],
+      "length_words": 30,
+      "comic_potential": 4,
+      "story_seed": "An 86-year-old woman who has lost the vote in 50 straight campaigns is wheeled in to her last meeting, where a hall of young women waits; she can't finish her speech, and the final spread jumps fourteen years ahead to the same young women, grey now, dropping ballots into a box.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Her last public speech; she died a month later and the 19th Amendment passed in 1920.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "andersen-butterfly-sunshine-freedom",
+      "text": "han kunde leve; men, „leve er ikke nok!\" sagde han, „Solskin, Frihed og en lille Blomst maa man have!\"",
+      "popular_text": "\"Just living is not enough,\" said the butterfly, \"one must have sunshine, freedom, and a little flower.\"",
+      "flags": [
+        "popular_wording_differs",
+        "translation_needed"
+      ],
+      "author": "Hans Christian Andersen",
+      "author_dates": "1805-1875",
+      "work": "Sommerfuglen (The Butterfly), Nye Eventyr og Historier",
+      "year": 1861,
+      "form": "prose",
+      "original_language": "Danish",
+      "translator": "english_gloss is our own literal translation",
+      "english_gloss": "he could live; but \"living is not enough!\" he said, \"sunshine, freedom and a little flower one must have!\"",
+      "verified_url": "https://da.wikisource.org/wiki/Sommerfuglen",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1861; author died 1875. Public domain.",
+      "themes": [
+        "joy",
+        "freedom",
+        "meaning",
+        "nature"
+      ],
+      "length_words": 19,
+      "comic_potential": 4,
+      "story_seed": "A butterfly that has fluttered into a heated office tower survives the winter on a radiator beside a burnt-out data analyst; the two of them stare at the sealed window for weeks, and the turn is the analyst prising it open on the first spring morning, letting the butterfly out, and then following it down the fire escape himself.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The popular English wording is a paraphrase of Jean Hersholt's translation (1949), which is still in copyright, so the Danish original is stored and a fresh translation should be used. In the tale the butterfly ends up pinned in a collection, which is an ironic turn.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "thoreau-live-deliberately",
+      "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Henry David Thoreau",
+      "author_dates": "1817-1862",
+      "work": "Walden, ch. 2 'Where I Lived, and What I Lived For'",
+      "year": 1854,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/205/pg205.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1854; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "simplicity",
+        "purpose",
+        "nature",
+        "mortality"
+      ],
+      "length_words": 44,
+      "comic_potential": 4,
+      "story_seed": "A burnt-out city paramedic takes a two-year posting as the only ranger on a lake island; the story is told through her shopping lists, which shrink from forty items to four, while her sketchbook swells, and it ends with a lost hiker asking the way and her drawing him a map from memory.",
+      "zp_adapted_author": {
+        "value": true,
+        "slugs": [
+          "80-henry-david-thoreau-on-happiness"
+        ]
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "The Walden line appears only in the author blurb of #80, which adapts a different quote (on happiness)."
+      },
+      "notes": "Zen Pencils #80 adapted a different Thoreau quote (on happiness); this Walden line is quoted only in that page's author blurb.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "tagore-where-the-mind-is-without-fear",
+      "text": "Where the mind is without fear and the head is held high;\nWhere knowledge is free;\nWhere the world has not been broken up into fragments by narrow domestic walls;\nWhere words come out from the depth of truth;\nWhere tireless striving stretches its arms towards perfection;\nWhere the clear stream of reason has not lost its way into the dreary desert sand of dead habit;\nWhere the mind is led forward by thee into ever-widening thought and action—\nInto that heaven of freedom, my Father, let my country awake.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Rabindranath Tagore",
+      "author_dates": "1861-1941",
+      "work": "Gitanjali (Song Offerings), no. 35 (Tagore's own English version)",
+      "year": 1912,
+      "form": "poem",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/7164/pg7164.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1912; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "freedom",
+        "knowledge",
+        "nationhood",
+        "courage"
+      ],
+      "length_words": 91,
+      "comic_potential": 4,
+      "story_seed": "In a village split by a new concrete wall down the middle of its market, two girls on either side pass a single library book back and forth through a drainage gap, one page a day, and the story ends on the morning the whole market wakes to find the book's pages pasted all over the wall.",
+      "zp_adapted_author": {
+        "value": true,
+        "slugs": [
+          "133-rabindranath-tagore-the-joy-of-life"
+        ]
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": "#133 adapts a different Tagore passage; a reader comment on that page asks for this poem."
+      },
+      "notes": "Zen Pencils #133 adapted a different Tagore line; a reader comment there asked for this one.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "dickinson-hope-thing-with-feathers",
+      "text": "Hope is the thing with feathers\nThat perches in the soul,\nAnd sings the tune without the words,\nAnd never stops at all,\n\nAnd sweetest in the gale is heard;\nAnd sore must be the storm\nThat could abash the little bird\nThat kept so many warm.\n\nI've heard it in the chillest land,\nAnd on the strangest sea;\nYet, never, in extremity,\nIt asked a crumb of me.",
+      "popular_text": "\"Hope\" is the thing with feathers -\nThat perches in the soul -\nAnd sings the tune without the words -\nAnd never stops - at all - ...",
+      "flags": [
+        "popular_wording_differs"
+      ],
+      "author": "Emily Dickinson",
+      "author_dates": "1830-1886",
+      "work": "Hope (Poems, Second Series, 1891)",
+      "year": 1891,
+      "form": "poem",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/12242/pg12242.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1891; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "hope",
+        "resilience",
+        "nature"
+      ],
+      "length_words": 69,
+      "comic_potential": 4,
+      "story_seed": "A lighthouse keeper's child on a storm-cut island nurses a half-frozen sparrow through a week-long gale; when the supply boat can't land and the adults despair, the bird keeps singing in its shoebox, and the last panel shows it flying ahead of the boat that finally breaks through.",
+      "zp_adapted_author": {
+        "value": true,
+        "slugs": [
+          "99-emily-dickinson-a-bird-came-down-the-walk"
+        ]
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "1891 text edited by Higginson and Todd. Modern editions (Johnson 1955, Franklin 1998) restore Dickinson's dashes and punctuation; those editions are still in copyright, so the 1891 text is the safe one. Zen Pencils #99 adapted a different Dickinson poem.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "vivekananda-arise-awake",
+      "text": "Arise, awake, and stop not till the goal is reached. Arise, awake! Awake from this hypnotism of weakness. None is really weak; the soul is infinite, omnipotent, and omniscient.",
+      "popular_text": null,
+      "flags": [
+        "paraphrases_scripture"
+      ],
+      "author": "Swami Vivekananda",
+      "author_dates": "1863-1902",
+      "work": "'The Mission of the Vedanta', Kumbakonam lecture, Lectures from Colombo to Almora",
+      "year": 1897,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_3/Lectures_from_Colombo_to_Almora/The_Mission_of_the_Vedanta",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1897; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "awakening",
+        "self-belief",
+        "perseverance"
+      ],
+      "length_words": 29,
+      "comic_potential": 3,
+      "story_seed": "A night-watchman in a Chennai textile mill who has dozed through thirty years of shifts is woken at dawn by a stray alarm clock ticking in a lost schoolbag, finds the bag's owner's exam timetable, and runs across the city to deliver it before the exam starts.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The key line paraphrases Katha Upanishad 1.3.14 ('uttiṣṭhata jāgrata prāpya varān nibodhata'); Vivekananda quotes the Sanskrit first.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "service-the-quitter",
+      "text": "It's easy to cry that you're beaten — and die;\nIt's easy to crawfish and crawl;\nBut to fight and to fight when hope's out of sight —\nWhy, that's the best game of them all!\nAnd though you come out of each gruelling bout,\nAll broken and beaten and scarred,\nJust have one more try — it's dead easy to die,\nIt's the keeping-on-living that's hard.",
+      "popular_text": null,
+      "flags": [
+        "sensitive_suicide_theme"
+      ],
+      "author": "Robert W. Service",
+      "author_dates": "1874-1958",
+      "work": "The Quitter (Rhymes of a Rolling Stone), final stanza",
+      "year": 1912,
+      "form": "poem excerpt",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/Rhymes_of_a_Rolling_Stone/The_Quitter",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1912, before 1929, so public domain in the US (the author died in 1958, so it may still be in copyright in life+70 countries).",
+      "themes": [
+        "endurance",
+        "survival",
+        "despair",
+        "grit"
+      ],
+      "length_words": 66,
+      "comic_potential": 3,
+      "story_seed": "A Yukon mail-carrier whose dog team has run off stumbles through snow toward a cabin light that keeps receding; each time he falls the art pulls in closer on his face, and the final panel shows the cabin door opening and a child inside who has been waiting for a letter from her father.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "The poem's earlier stanza is explicitly about suicide ('cock your revolver'); handle carefully.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "mckay-if-we-must-die",
+      "text": "If we must die, let it not be like hogs\nHunted and penned in an inglorious spot,\nWhile round us bark the mad and hungry dogs,\nMaking their mock at our accursèd lot.\nIf we must die, O let us nobly die,\nSo that our precious blood may not be shed\nIn vain; then even the monsters we defy\nShall be constrained to honor us though dead!\nO kinsmen! we must meet the common foe!\nThough far outnumbered let us show us brave,\nAnd for their thousand blows deal one death-blow!\nWhat though before us lies the open grave?\nLike men we'll face the murderous, cowardly pack,\nPressed to the wall, dying, but fighting back!",
+      "popular_text": null,
+      "flags": [
+        "violent_imagery"
+      ],
+      "author": "Claude McKay",
+      "author_dates": "1889-1948",
+      "work": "If We Must Die (The Liberator, July 1919; Harlem Shadows, 1922)",
+      "year": 1919,
+      "form": "poem",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/Harlem_Shadows/If_We_Must_Die",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1919; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "resistance",
+        "dignity",
+        "defiance",
+        "solidarity"
+      ],
+      "length_words": 116,
+      "comic_potential": 3,
+      "story_seed": "During the Red Summer of 1919, a Jamaican-born railway dining-car waiter hears of riots at every stop; he hides a family in the pantry car, and the whole waiting staff link arms across the door as a mob boards, drawn in woodcut blacks.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Written in response to the Red Summer of 1919. It is defiant and violent rather than gentle, so it suits a darker comic.",
+      "used_in_this_project": false
+    },
+    {
+      "id": "bronte-no-coward-soul",
+      "text": "No coward soul is mine,\nNo trembler in the world's storm-troubled sphere:\nI see Heaven's glories shine,\nAnd faith shines equal, arming me from fear.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Emily Brontë",
+      "author_dates": "1818-1848",
+      "work": "No Coward Soul Is Mine (written 1846; published 1850), stanza 1",
+      "year": 1850,
+      "form": "poem excerpt",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/No_Coward_Soul_Is_Mine",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1850; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "courage",
+        "faith",
+        "inner strength"
+      ],
+      "length_words": 26,
+      "comic_potential": 3,
+      "story_seed": "A timid parish clerk's daughter on the Yorkshire moors shepherds a lost flock alone through a night storm, the sky tearing open in panel after panel, and walks into the village at dawn soaked but upright while the men who were too scared to go are still arguing in the pub doorway.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "",
+      "used_in_this_project": false
+    },
+    {
+      "id": "wollstonecraft-power-over-themselves",
+      "text": "I do not wish them to have power over men; but over themselves.",
+      "popular_text": null,
+      "flags": [],
+      "author": "Mary Wollstonecraft",
+      "author_dates": "1759-1797",
+      "work": "A Vindication of the Rights of Woman, ch. IV",
+      "year": 1792,
+      "form": "prose",
+      "original_language": "English",
+      "translator": null,
+      "english_gloss": null,
+      "verified_url": "https://www.gutenberg.org/cache/epub/3420/pg3420.txt",
+      "verification_level": "primary: digitised text of the original or early edition",
+      "public_domain_reason": "Published 1792; all works published before 1929 are public domain in the US.",
+      "themes": [
+        "self-mastery",
+        "women",
+        "education",
+        "independence"
+      ],
+      "length_words": 13,
+      "comic_potential": 3,
+      "story_seed": "A girl who is only allowed to sweep in her father's 1790s London print shop sets type for her own pamphlet one letter a night; the turn is that she never publishes it but reads it aloud to herself in the dark shop, and next morning walks up to her father and asks for wages.",
+      "zp_adapted_author": {
+        "value": false,
+        "slugs": []
+      },
+      "zp_adapted_quote": {
+        "value": false,
+        "note": ""
+      },
+      "notes": "Responding to Rousseau, who is quoted just before this line.",
+      "used_in_this_project": false
+    }
+  ]
+}

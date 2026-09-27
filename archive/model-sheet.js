@@ -1,0 +1,11 @@
+const fs = require('fs');
+const I = require('../lib/ink'); const K = require('../lib/cast');
+I.seed(3);
+const moods = ['neutral','worried','determined','joy','shock','calm'];
+moods.forEach((m,i)=> I.grp(`translate(${90+i*150} 130)`, ()=>K.miraHead({mood:m, fx: i%2?0.5:-0.3, look:[0.6,0], sweat:m==='worried', smudge: m==='joy'?K.C.yellow:null})));
+['menace','shock','sulk'].forEach((m,i)=> I.grp(`translate(${130+i*260} 400)`, ()=>K.voice({mood:m})));
+I.caption(40, 560, ['IF YOU HEAR A VOICE','WITHIN YOU SAY...']);
+I.balloon(560, 600, 120, 50, 460, 680, ['YOU CANNOT','PAINT.'], {jag:true, size:24, font:'Title', ls:2});
+I.text(300, 700, 'SHWOOSH!', {font:'Title', size:70, color:K.C.yellow, stroke:'#1b1519', sw:7, rot:-8});
+const body = I.take();
+fs.writeFileSync(__dirname+'/../out/archive/model-sheet.svg', `<svg xmlns="http://www.w3.org/2000/svg" width="980" height="740" viewBox="0 0 980 740">${require('../lib/fonts')()}<rect width="980" height="740" fill="#fff"/>${body}</svg>`);

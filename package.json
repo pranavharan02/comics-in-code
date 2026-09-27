@@ -1,0 +1,15 @@
+{
+  "name": "comics-in-code",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zen Pencils-style comics drawn entirely in code",
+  "scripts": {
+    "build": "for c in uphill ocean butterfly thousand wobbling; do node comics/$c.js; done",
+    "render": "for f in up-hill the-great-ocean the-butterfly several-thousand-things wobbling-will; do node lib/render.js out/$f.svg out/$f.png; done",
+    "all": "npm run build && npm run render",
+    "qc": "python3 qc/score.py out/up-hill.png out/the-great-ocean.png out/the-butterfly.png out/several-thousand-things.png out/wobbling-will.png"
+  },
+  "dependencies": {
+    "playwright": "^1.56.0"
+  }
+}

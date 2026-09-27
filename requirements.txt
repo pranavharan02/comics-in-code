@@ -1,0 +1,5 @@
+# for the style measurement (study/) and QC scorer (qc/)
+numpy
+scipy
+scikit-image
+Pillow
