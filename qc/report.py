@@ -23,8 +23,8 @@ for i, (key, _, label) in enumerate(CHECKS):
         lab, v, _, verdict = rows[n][i]
         cells.append('n/a' if v is None else f'{v:.2f} {verdict}')
     lines.append(f'| {label} | {band} | ' + ' | '.join(cells) + ' |')
-lines += ['', 'Notes: *Up-Hill* and *The Great Ocean* are deliberately night-heavy (their colour scripts end in darkness),',
-          'so their median brightness sits in the darkest tenth of Zen Pencils strips. Border thickness on dark panels',
+lines += ['', 'Notes: *Up-Hill* and *The Great Ocean* are night-heavy by design (their colour scripts end in darkness);',
+          'after the rework their median brightness sits inside the Zen Pencils range. Border thickness on dark panels',
           'can read high because the measurement merges a dark sky with the border.']
 open(os.path.join(os.path.dirname(__file__), '..', 'docs', 'QC.md'), 'w').write('\n'.join(lines) + '\n')
 print('\n'.join(lines))

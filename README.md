@@ -7,9 +7,10 @@
   No image assets, no tracing, no generative models: every line, colour and letter is placed by JavaScript.
 </p>
 
-> **Status: work in progress.** *Every Line Alive* is the flagship and the closest to finished, though not
-> there yet. The other five are earlier-stage: their characters and panels still look off. All six are being
-> reworked, panel by panel, towards production quality.
+> **Status: work in progress.** *Every Line Alive* is the flagship and the closest to finished. The other five
+> have been reworked panel by panel on a rebuilt engine (brush inking, new faces, figures, hands, backgrounds and
+> lettering). Blind reviews now score them 5.2–5.6 out of 10 against real Zen Pencils strips, up from 3.9–4.8,
+> but every reviewer still spots them as code-drawn. See [where it falls short](#where-it-falls-short).
 
 ---
 
@@ -34,10 +35,11 @@ wave leaves the paper.
 ## Five more comics
 
 Every Line Alive was drawn from close reading alone. These five were **built afterwards, with further research
-into how comics work**: the Zen Pencils archive measured with code, a panel reproduced one-to-one, a new
-drawing engine built around what that showed, and two rounds of independent audits (all described below).
-The research shows in the numbers, not yet in the drawing: the characters and many panels still look off,
-and these five are next in line for a full rework.
+into how comics work**: the Zen Pencils archive measured with code, a panel reproduced one-to-one, and a new
+drawing engine built around what that showed. They were then **reworked panel by panel**: each panel was
+diagnosed against a real Zen Pencils panel of a similar shot, the engine was rebuilt around what the diagnoses
+found, and each page went through blind reviews against real strips (all described below and in
+[`docs/AUDITS.md`](docs/AUDITS.md)).
 
 <table>
   <tr>
@@ -56,10 +58,10 @@ and these five are next in line for a full rework.
 
 | Comic | The story | The turn |
 |---|---|---|
-| **Up-Hill** | A six-year-old and her grandad climb one hill from dawn to night. The poem is already a conversation, so she asks and he answers. | He carries her up the last steps, and the inn door opens on everyone who went before. |
+| **Up-Hill** | A six-year-old and her grandad climb one hill from dawn to night. The poem is already a conversation, so she asks and he answers. | He carries her up the last steps, and the inn door opens on the wayfarers they met on the road. |
 | **The Great Ocean** | A famous physicist slips out of her own award dinner, barefoot, to the beach at night. | She kneels beside a small boy turning over shells, and becomes a tiny figure in front of a vast glowing sea. |
-| **The Butterfly** | An office worker falls asleep at his desk at 3:07 a.m., and the butterfly lifting off his back has the pattern of his tie. | He wakes with wing dust on his fingertips. |
-| **Several Thousand Things** | A girl bakes her Nana's loaf again and again, pinning a photo of every failure to the fridge. | Her dad sees 47 failures. The notes under the photos say it's a lab notebook. |
+| **The Butterfly** | An office worker falls asleep at his desk at 3:07 a.m., and the butterfly lifting off his back has the pattern of his tie. | The phone jolts him awake, with wing dust on his fingertips. |
+| **Several Thousand Things** | A girl bakes her Nana's loaf again and again, pinning a photo of every failure to the fridge. | Her dad sees 47 failures, then reads the note on one of the photos: it's a lab notebook. |
 | **Wobbling Will** | A 53-year-old school cook buys a second-hand bicycle and falls off it for weeks. | She stops staring at the wobbling front wheel, looks at the bridge ahead, and flies. |
 
 Every quote is public domain and checked word for word against a primary or reliable source. None of these
@@ -121,29 +123,36 @@ stroke widths to within about 0.2 px; the comparison also showed exactly what th
 the engine rewrite. The reference art is copyrighted, so neither image is in this repo, only the numbers.
 
 ### 3. The engine
-Everything lives in [`zp/`](zp/), on top of a small brush-stroke toolkit in [`lib/ink.js`](lib/ink.js).
+Everything lives in [`zp/`](zp/), on top of a small brush-stroke toolkit in [`lib/ink.js`](lib/ink.js). Lines are
+thick-thin brush strokes (heavier on the side away from the light, tapering into overlaps), and every form gets
+one flat cel shadow, with spot blacks for dark cloth and hair ([`zp/core.js`](zp/core.js)).
 
-**Heads are projected from 3D**, so one design turns all the way round ([`zp/head.js`](zp/head.js)):
+**Heads are projected from 3D**, so one design turns all the way round, and each character has their own face
+preset: face shape, jaw, nose, brows, eyes and hair ([`zp/head.js`](zp/head.js)):
 
 <img src="docs/readme/turnaround.png" alt="One head design from behind to profile to front" width="100%">
 
-**Faces act** through lids, brows and mouths:
+**Faces act** through lids, brows and mouths, and the acting is exaggerated at small sizes so it still reads in a
+wide panel:
 
 <img src="docs/readme/moods.png" alt="Ten moods on one face" width="100%">
 
-**Figures are rigged**, with inverse kinematics so a hand can reach a point: a handlebar, a sandwich,
-another hand ([`zp/figure.js`](zp/figure.js)):
+**Figures are rigged** in 3D with a line of action, contrapposto and weight, cloth with folds, and inverse
+kinematics so a hand can reach a point ([`zp/figure.js`](zp/figure.js)). A pose library covers the comics' poses,
+including two-figure ones like hand in hand and a piggy-back ([`zp/poses.js`](zp/poses.js)), and there is a real
+bicycle to ride ([`zp/bike.js`](zp/bike.js)):
 
 <img src="docs/readme/poses.png" alt="Walking, pointing, sitting, kneeling, cheering, from behind, holding hands" width="100%">
 
-**Hands** are jointed and drawn as one merged silhouette ([`zp/hand.js`](zp/hand.js)):
+**Hands** have jointed fingers, a thumb pad and grips that wrap the object they hold ([`zp/hand.js`](zp/hand.js)):
 
 <img src="docs/readme/hands.png" alt="Seven hand poses" width="100%">
 
-The page layer ([`zp/page.js`](zp/page.js)) uses the measured geometry and draws captions, balloons
-(sized from the fonts' real metrics, tails aimed at the speaker), sound effects, rays, glows and paper
-grain. Characters take on the scene's light at dusk and night. [`zp/scene.js`](zp/scene.js) draws rooms,
-windows, furniture, hills, sea, skylines, clouds and stars.
+The page layer ([`zp/page.js`](zp/page.js)) uses the measured geometry and draws hand-lettered captions and
+balloons (every glyph slightly different, irregular brush outlines, curved tails aimed at the speaker), sound
+effects, rays, flat glows and paper texture. Characters take on the scene's light at dusk and night.
+[`zp/scene.js`](zp/scene.js) draws rooms, windows, furniture, hills, walls, sea, skylines, crowds, clouds and
+stars, seeded so no two trees, stones or faces in a crowd are the same.
 
 ### 4. Quotes and scripts
 [`quotes/quotes.json`](quotes/quotes.json) holds 58 public-domain quotes from 1691 to 1921, about 40% by
@@ -156,15 +165,25 @@ Zen Pencils ranges. Full table: [`docs/QC.md`](docs/QC.md).
 
 | | in the middle 50% of Zen Pencils | in the middle 80% | outside |
 |---|---|---|---|
-| Up-Hill | 9 | 1 | 1 (brightness) |
-| The Great Ocean | 8 | 2 | 1 (brightness) |
+| Up-Hill | 10 | 1 | 0 |
+| The Great Ocean | 8 | 3 | 0 |
 | The Butterfly | 11 | 0 | 0 |
-| Several Thousand Things | 7 | 4 | 0 |
-| Wobbling Will | 7 | 4 | 0 |
+| Several Thousand Things | 11 | 0 | 0 |
+| Wobbling Will | 9 | 2 | 0 |
 
-**Independent audits.** Two reviews compared every panel with real strips at the same scale, scored each
-comic and listed concrete defects: tails pointing at nobody, faces on the backs of heads, floating hands,
-props that change between panels. The findings and every fix are in [`docs/AUDITS.md`](docs/AUDITS.md).
+**Independent audits.** Every panel was diagnosed against a real Zen Pencils panel of a similar shot
+([`docs/diagnosis/`](docs/diagnosis/)). Then each page went through blind reviews: a fresh reviewer got four
+unlabelled strips, ours and three real ones, and scored each one out of 10 in nine categories without knowing
+which was which. The findings, every fix and all the scores are in [`docs/AUDITS.md`](docs/AUDITS.md).
+
+| final blind review (out of 10) | characters | hands | backgrounds | colour | composition | lettering | layout | story | finish | mean |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Up-Hill | 5 | 3 | 6 | 6 | 6 | 5 | 6 | 6 | 5 | 5.3 |
+| The Great Ocean | 4 | 3 | 6 | 6 | 5 | 6 | 7 | 5 | 5 | 5.2 |
+| The Butterfly | 4 | 4 | 6 | 6 | 5 | 6 | 6 | 6 | 5 | 5.3 |
+| Several Thousand Things | 5 | 4 | 6 | 6 | 5 | 5 | 6 | 6 | 5 | 5.3 |
+| Wobbling Will | 5 | 4 | 5 | 7 | 6 | 5 | 6 | 7 | 5 | 5.6 |
+| *real Zen Pencils strips in the same reviews* | | | | | | | | | | *6.9–8.9* |
 
 ---
 
@@ -181,20 +200,27 @@ props that change between panels. The findings and every fix are in [`docs/AUDIT
 
 ## Where it falls short
 
-The honest version: **these are not as good as the real thing.** Every Line Alive comes closest. On the last
-independent review the other five scored 3–6 out of 10 against real Zen Pencils strips, with characters and
-hands the weakest (3 out of 10).
+The honest version: **these are not as good as the real thing.** Every Line Alive comes closest. After the
+panel-by-panel rework, blind reviewers scored the other five 5.2–5.6 out of 10 against real Zen Pencils strips
+(which scored 6.9–8.9 in the same reviews), up from 3.9–4.8 before it. Every reviewer still picked ours out as the
+one not drawn by a professional. The target was 8 in every category; none reached it.
 
-- **The measurable style matches; the drawing doesn't.** Margins, gutters, stroke widths and palettes land
-  inside Zen Pencils' range. Character drawing, hands and composition do not.
-- **Figures are rigs.** They pose correctly but lack the gesture, squash and weight of hand-drawn figures.
-- **The line is too even.** There is almost no brush taper or feathering inside forms.
-- **Backgrounds are procedural.** Trees, flowers, waves and crowds are repeated shapes, not designed scenes.
-- **Every panel is placed by hand.** Positions, angles and reach targets are written in code; there is no
-  scene language or automatic staging.
-- **Two pages are darker than Zen Pencils usually is.** Up-Hill and The Great Ocean end at night by design.
+- **Hands (3–4 out of 10).** Hands come from a parametric model. At the size they appear on the page they still
+  read as mittens, and grips at unusual angles (a loaf torn in two, a child's fist round a finger) are hand-tuned
+  and often wrong.
+- **Figures (4–5).** Poses are joint angles on a rig. Standing, walking and sitting look plausible, but poses
+  that need a cartoonist's judgement (a piggy-back, a fall into a hedge, lying in a tipped chair) come out as
+  tubes meeting at the wrong places. A cartoonist draws the gesture first and the anatomy follows; the engine
+  works the other way round.
+- **The line (finish 5).** The brush is now thick-thin, but its variation follows one rule, so it still reads as an
+  even vector weight. Real ink varies with the speed and pressure of each stroke.
+- **The rules show.** Stepped glows, repeated tiles, one bicycle model seen from the side, even paper texture: each
+  is a small tell, and together they read as generated.
+- **What works:** colour scripts, layout and pacing, and the story beats (6–7 out of 10), and every page is inside
+  Zen Pencils' measured range on all 11 style metrics.
 
-Closing the remaining gap is mostly panel-by-panel craft, not more tooling.
+Closing the rest of the gap would take a different approach to drawing figures (from gesture curves and per-pose
+silhouettes rather than a joint rig) and a stroke model with real pressure, not more panel polish.
 
 ---
 
@@ -224,14 +250,14 @@ share images and `python3 tools/share.py banner` for the cover. Engine images: `
 
 ```
 comics/     the five comics, one script each, plus their casts
-zp/         the drawing engine: head, figure, hand, page, scene, core
+zp/         the drawing engine: core, head, figure, poses, hand, bike, page, scene
 lib/        brush-stroke toolkit, SVG renderer, and the engine behind Every Line Alive
 study/      style measurement and the Zen Pencils statistics
 qc/         style scorer and QC report
 tools/      panel splitter, share images and cover
 quotes/     58 verified public-domain quotes
-docs/       scripts, study notes, QC table, audit log, README images
-out/        rendered pages; Every Line Alive also panel by panel and as four share images
+docs/       scripts, study notes, QC table, audit log, per-panel diagnoses, README images
+out/        rendered pages, each also panel by panel; Every Line Alive also as four share images
 archive/    the scripts for Every Line Alive and The Voice Within, drawn with lib/
 fonts/      Bangers, Balsamiq Sans, Patrick Hand (SIL Open Font License)
 ```
@@ -246,6 +272,9 @@ The project started loose and got stricter:
    after side-by-side comparisons exposed the figures, faces and hands. It is the main comic here.
 3. **The five comics** were built with further research: measuring the style with code, reproducing a
    panel one-to-one, rebuilding the engine around what that showed, and two rounds of independent audits.
+4. **The rework** diagnosed every panel of the five against real panels of similar shots, rebuilt the engine
+   (brush line, faces, figures, hands, backgrounds, lettering) and redrew every panel, with blind reviews after
+   each pass ([`docs/AUDITS.md`](docs/AUDITS.md)).
 
 ## Credits
 

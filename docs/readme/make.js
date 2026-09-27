@@ -50,21 +50,21 @@ I.seed(7);
 (function moods() {
   const W = 1280, H = 260;
   I.rect(0, 0, W, H, '#f2e6d0');
-  const ms = ['neutral', 'smile', 'joy', 'worried', 'sad', 'shock', 'angry', 'focus', 'tired', 'shut'];
-  ms.forEach((m, i) => { HD.head(CAST.toby.head, { x: 70 + i * 126, y: 110, s: 1.8, yaw: 20, mood: m, mouth: m === 'shut' ? 'smile' : undefined, blink: m === 'shut' }); I.text(70 + i * 126, 232, m.toUpperCase(), { font: 'Letter', size: 14 }); });
+  const ms = ['neutral', 'joy', 'worried', 'sad', 'surprise', 'angry', 'determined', 'embarrassed', 'dejected', 'sleepy'];
+  ms.forEach((m, i) => { HD.head(CAST.toby.head, { x: 70 + i * 126, y: 118, s: 1.45, yaw: 20, mood: m }); I.text(70 + i * 126, 232, m.toUpperCase(), { font: 'Letter', size: 14 }); });
   save('moods', W, H, I.take());
 })();
 
 // ---- poses: the rig with IK
 (function poses() {
-  const W = 1280, H = 360;
+  const W = 1280, H = 400;
   I.rect(0, 0, W, H, '#dfe8ee');
-  const g = H * 0.9;
+  const g = H - 44;
   line([[0, g], [W, g]], 2);
   // walking
   F.fig(CAST.chen, { x: 110, y: g, s: 1, yaw: 60, legN: [26, -6], legF: [-22, 24], armN: [-26, 14], armF: [28, 18], head: { yaw: 55, mood: 'smile' } });
   // pointing up (IK)
-  F.fig(CAST.grandad, { x: 280, y: g, s: 1, yaw: 40, reachN: [380, 60], bendN: -1, handN: 'point', head: { yaw: 40, pitch: 10, look: [0.6, -1], mood: 'smile' } });
+  F.fig(CAST.grandad, { ...F.POSES.point(CAST.grandad, { x: 280, y: g, s: 1, yaw: 40, armN: [128, -6], head: { yaw: 40, pitch: 10, look: [0.6, -1], mood: 'smile' } }) });
   // sitting on a bench
   shape(I.rectPts(420, g - 64, 120, 10), '#8a5a3a', { w: 2, lin: true });
   shape(I.rectPts(426, g - 54, 8, 54), '#8a5a3a', { w: 2, lin: true }); shape(I.rectPts(526, g - 54, 8, 54), '#8a5a3a', { w: 2, lin: true });
@@ -81,7 +81,7 @@ I.seed(7);
   const mid = [(a.shN[0] + b.shN[0]) / 2, b.shN[1] + 30];
   F.fig(CAST.peg, { x: 1080, y: g, s: 1, yaw: 60, reachN: mid, head: { yaw: 50, mood: 'smile' } });
   F.fig(CAST.isla, { x: 1180, y: g, s: 1, yaw: -60, reachN: [mid[0] + 4, mid[1] - 2], head: { yaw: -40, pitch: 8, look: [-0.5, -0.6], mood: 'joy' } });
-  ['WALK', 'POINT (IK)', 'SIT', 'KNEEL', 'CHEER', 'FROM BEHIND', 'HOLD HANDS (IK)'].forEach((t, i) => I.text([110, 300, 480, 650, 800, 930, 1130][i], 30, t, { font: 'Letter', size: 15 }));
+  ['WALK', 'POINT', 'SIT', 'KNEEL', 'CHEER', 'FROM BEHIND', 'HOLD HANDS (IK)'].forEach((t, i) => I.text([110, 300, 480, 650, 800, 930, 1130][i], H - 14, t, { font: 'Letter', size: 15 }));
   save('poses', W, H, I.take());
 })();
 
