@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-<sub>Click a cover for the full page. Every Line Alive also comes panel by panel in <a href="out/every-line-alive/"><code>out/every-line-alive/</code></a>.</sub>
+<sub>Click a cover for the full page. Every Line Alive also comes panel by panel in <a href="out/every-line-alive/"><code>out/every-line-alive/</code></a>, and as a moodboard (<a href="out/every-line-alive-moodboard-landscape.jpg">16:9</a>, <a href="out/every-line-alive-moodboard-portrait.jpg">4:5</a>).</sub>
 
 | Comic | The story | The turn |
 |---|---|---|
@@ -149,7 +149,8 @@ props that change between panels. The findings and every fix are in [`docs/AUDIT
   balloons and sound effects.
 - **Tell time with colour**: characters take on the light of dawn, dusk or night.
 - **Score any comic image** against the Zen Pencils style ranges (`npm run qc`).
-- **Cut any page into panels** ([`tools/split_panels.py`](tools/split_panels.py)).
+- **Cut any page into panels** ([`tools/split_panels.py`](tools/split_panels.py)) and pin them to a
+  moodboard for sharing ([`tools/moodboard.py`](tools/moodboard.py)).
 
 ## Where it falls short
 
@@ -198,7 +199,7 @@ zp/         the drawing engine: head, figure, hand, page, scene, core
 lib/        brush-stroke toolkit, SVG renderer, and the engine behind Every Line Alive
 study/      style measurement and the Zen Pencils statistics
 qc/         style scorer and QC report
-tools/      panel splitter
+tools/      panel splitter, moodboard maker
 quotes/     58 verified public-domain quotes
 docs/       scripts, study notes, QC table, audit log, README images
 out/        rendered pages (and Every Line Alive, panel by panel)
