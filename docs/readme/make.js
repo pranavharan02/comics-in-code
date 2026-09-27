@@ -34,26 +34,7 @@ function save(name, w, h, body) {
   console.log('wrote', name);
 }
 
-// ---- banner: the whole cast on one stage
 I.seed(7);
-(function banner() {
-  const W = 1280, H = 420;
-  I.rect(0, 0, W, H, PG.linear(0, 0, 0, H, [[0, '#f6c77c'], [0.6, '#fbe3b0'], [1, '#fff4d8']]));
-  PG.rays(W * 0.5, H * 0.95, 60, 1400, 44, '#fff1c2', 2, { spread: 0.03 });
-  SC.sun(W * 0.5, H * 0.95, 90, '#fff6d8', { glow: '#fff1c2' });
-  SC.hills(W, H * 0.8, 30, '#a8c46a', { n: 3, bottom: H + 20 });
-  const row = [
-    ['peg', 0.08, 30, 'joy'], ['grandad', 0.2, 20, 'smile'], ['isla', 0.3, 25, 'joy'], ['ada', 0.41, 15, 'smile'],
-    ['toby', 0.53, -10, 'joy'], ['chen', 0.65, -15, 'smile'], ['dad', 0.78, -20, 'smile'], ['maya', 0.9, -25, 'joy'],
-  ];
-  row.forEach(([k, x, yaw, mood], i) => {
-    const up = i % 3 === 0;
-    F.fig(CAST[k], { x: W * x, y: H * 0.94, s: 0.95, yaw, armN: up ? [150, 20] : [20, 30], armF: [-10, 10], handN: up ? 'open' : 'relaxed', head: { yaw, mood } });
-  });
-  PG.sfx(W * 0.5, 120, 'COMICS IN CODE', { size: 108, color: '#2f7a8a', rot: -2, sw: 4, ls: 3 });
-  I.text(W * 0.5, 168, 'ZEN PENCILS-STYLE COMICS, DRAWN LINE BY LINE WITH JAVASCRIPT', { font: 'Letter', size: 17, ls: 2 });
-  save('banner', W, H, I.take());
-})();
 
 // ---- turnaround: one head design, many angles
 (function turnaround() {
