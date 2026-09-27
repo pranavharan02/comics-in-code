@@ -3,3 +3,4 @@ out/*.svg
 out/archive/*.svg
 work/
 __pycache__/
+docs/readme/*.svg
